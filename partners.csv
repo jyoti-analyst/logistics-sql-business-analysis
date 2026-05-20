@@ -1,0 +1,60 @@
+Partner_ID,Partner_Name,Rating,Vehicle_Type
+1,Amazon Logistics,,bike
+2,XpressBees,10,TRUCK
+3,Amazon Logistics,10,
+4,DELHIVERY,,
+5,Shadowfax,,TRUCK
+6,XpressBees,4.2,bike
+7,XpressBees,3.8,Truck
+8,Shadowfax,-1,
+9,XpressBees,-1,TRUCK
+10,Amazon Logistics,10,
+11,Shadowfax,-1,Van
+12,Shadowfax,10,Bike
+13,DELHIVERY,,Van
+14,DELHIVERY,-1,
+15,BlueDart,,TRUCK
+16,ECOM Express,,Bike
+17,XpressBees,10,
+18,ECOM Express,10,
+19,XpressBees,4.4,
+20,Ecom Express,10,
+21,Amazon Logistics,2.5,Van
+22,BlueDart,,
+23,BlueDart,-1,TRUCK
+24,Shadowfax,10,
+25,XpressBees,,TRUCK
+26,XpressBees,-1,
+27,BlueDart,-1,Bike
+28,Amazon Logistics,10,bike
+29,Shadowfax,3.1,Bike
+30,ECOM Express,-1,
+31,Ecom Express,,TRUCK
+32,DELHIVERY,10,Van
+33,BlueDart,4,TRUCK
+34,XpressBees,,Truck
+35,Shadowfax,3,TRUCK
+36,DELHIVERY,2.4,bike
+37,Shadowfax,-1,bike
+38,BlueDart,-1,Bike
+39,Amazon Logistics,-1,Truck
+40,Amazon Logistics,,Truck
+41,XpressBees,3.2,Van
+42,Amazon Logistics,4.5,Bike
+43,Shadowfax,4,Van
+44,Shadowfax,10,Van
+45,BlueDart,,Truck
+46,XpressBees,10,Van
+47,Ecom Express,-1,Truck
+48,XpressBees,,Bike
+49,Shadowfax,-1,Truck
+50,Shadowfax,10,Van
+51,XpressBees,3.4,Bike
+52,DELHIVERY,,Truck
+53,BlueDart,2.6,bike
+54,Ecom Express,-1,bike
+55,Amazon Logistics,10,Truck
+56,Shadowfax,,
+57,ECOM Express,10,
+58,Shadowfax,,bike
+59,BlueDart,3.9,
